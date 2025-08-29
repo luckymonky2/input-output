@@ -1,2 +1,2 @@
 # input-output
-7 input output exercise for beginners 
+6 input output exercise for beginners 
